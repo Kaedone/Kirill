@@ -1,0 +1,12 @@
+﻿public class Closing: MonoBehaviour
+{
+    publick void move
+    {
+    boll isTouching = False;
+    
+    обработка
+    
+     if isTouching = True:
+        схлопывается капкан
+    }
+}
